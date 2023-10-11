@@ -15,6 +15,6 @@ This sample template sets up two virtual networks with peering, placing a Bastio
 
 
 
-## Deployment steps
+
 
 
